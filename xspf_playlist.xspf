@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="0" xmlns = "http://xspf.org/ns/0/">
+    <title>Chet</title>
+    <trackList>
+        <track>
+            <location>mp3/new-songs/as_evil_as_i've_been.mp3</location>
+            <annotation>As Evil As I've Been (Nor I)</annotation>
+            <!--<!--<info></info>-->-->
+        </track>
+        <track>
+            <location>mp3/new-songs/i'm_not_crazy.mp3</location>
+            <annotation>I'm Not Crazy</annotation>
+            <!--<!--<info></info>-->-->
+        </track>
+        <track>
+            <location>mp3/new-songs/the_way_i_see_things.mp3</location>
+            <annotation>The Way I See Things</annotation>
+            <!--<!--<info></info>-->-->
+        </track>
+        <track>
+            <location>mp3/through_our_struggles.mp3</location>
+            <annotation>Through Our Struggles</annotation>
+            <!--<!--<info></info>-->-->
+        </track>
+        <track>
+            <location>mp3/the_hopeless_song.mp3</location>
+            <annotation>The Hopeless Song</annotation>
+            <!--<!--<info></info>-->-->
+        </track>
+        <track>
+            <location>mp3/the_voices_in_my_head.mp3</location>
+            <annotation>The Voices In My Heaed</annotation>
+            <!--<info></info>-->
+        </track>
+        <track>
+            <location>mp3/criminal_at_heart.mp3</location>
+            <annotation>Criminal At Heart</annotation>
+            <!--<info></info>-->
+        </track>
+        <track>
+            <location>mp3/im_ok.mp3</location>
+            <annotation>I'm OK</annotation>
+            <!--<info></info>-->
+        </track>
+    </trackList>
+</playlist>

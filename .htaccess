@@ -1,0 +1,5 @@
+RewriteRule ^about$ /about/ [R=301,L]
+RewriteRule ^photos$ /photos/ [R=301,L]
+
+RewriteRule ^about/$ /about.html [L]
+RewriteRule ^photos/$ /photos.html [L]
